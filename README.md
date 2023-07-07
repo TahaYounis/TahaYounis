@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Compose Multiplatform Framework | KMM**
 
-<h4 align="left">- 👯 I’m looking to collaborate on **Large Projects to leverage my skills and experience**</h4>
+- 👯 I’m looking to collaborate on **Large Projects to leverage my skills and experience**
 
 - 💬 Ask me about **Kotlin, Java, Android**
 
