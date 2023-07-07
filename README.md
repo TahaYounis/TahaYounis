@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tahayounis&theme=radical" alt="tahayounis" /></p>
 
-<p>&nbsp;<img center="right" src="https://github-readme-stats.vercel.app/api?username=tahayounis&show_icons=true&locale=en&theme=radical" alt="tahayounis" /> </p>
+<p>&nbsp;<img center="left" src="https://github-readme-stats.vercel.app/api?username=tahayounis&show_icons=true&locale=en&theme=radical" alt="tahayounis" /> </p>
