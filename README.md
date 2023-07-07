@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Younis</h1>
-<h2 align="center">Mobile developer (Kotlin | Java)</h2>
+<h4 align="center">Mobile developer (Kotlin | Java)</h4>
 
 - 🔭 I’m currently working as **freelancer**
 
