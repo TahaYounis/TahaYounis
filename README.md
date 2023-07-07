@@ -26,10 +26,9 @@
 
 <h2 align="left">📊 Github Stats</h2>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tahayounis&show_icons=true&locale=en&theme=radical" alt="tahayounis" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tahayounis&theme=radical" alt="tahayounis" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tahayounis&show_icons=true&locale=en&theme=radical" alt="tahayounis" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahayounis&show_icons=true&locale=en&layout=compact&theme=radical" alt="tahayounis" /></p>
 
