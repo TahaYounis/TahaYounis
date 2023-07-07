@@ -3,19 +3,18 @@
 
 <img align="right" src="https://github.com/TahaYounis/TahaYounis/blob/main/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" whidth="100"> 
 
-<h4 align="left"> 
+
 - 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **Compose Multiplatform Framework | KMM**
 
-- 👯 I’m looking to collaborate on **Large Projects to leverage my skills and experience**
+<h4 align="left">- 👯 I’m looking to collaborate on **Large Projects to leverage my skills and experience**</h4>
 
 - 💬 Ask me about **Kotlin, Java, Android**
 
 - 📫 How to reach me **pro.tahayounis@gmail.com**
 
 - 📄 Know about my experiences [Resume]([url](https://drive.google.com/file/d/1-oAqHi0FP1yCDLVn29jEo6TJdKXtMi1S/view))
-</h4>
 
 <h3 align="left">Connect with me:</h3>
 
