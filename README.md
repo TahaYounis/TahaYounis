@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taha Younis</h1>
-<h3 align="center">Android Developer with 3+ years of experience in designing, developing, maintaining, and testing Android applications. I am looking for a challenging position in a reputable organization.</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">Android Developer (Java- Kotlin)</h3>
 
 - 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **Compose Multiplatform Framework | KMM**
+
+- 👯 I’m looking to collaborate on **Large Projects to leverage my skills and experience**
 
 - 💬 Ask me about **Kotlin, Java, Android**
 
