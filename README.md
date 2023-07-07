@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pro.tahayounis@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-oAqHi0FP1yCDLVn29jEo6TJdKXtMi1S/view?usp=sharing](https://drive.google.com/file/d/1-oAqHi0FP1yCDLVn29jEo6TJdKXtMi1S/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([url](https://drive.google.com/file/d/1-oAqHi0FP1yCDLVn29jEo6TJdKXtMi1S/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
