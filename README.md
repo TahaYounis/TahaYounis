@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Younis</h1>
 <h3 align="center">Mobile developer (Kotlin | Java)</h3>
 
-![I am GitHub Readme Generator's creator](https://github.com/TahaYounis/TahaYounis/blob/main/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)
+<img align="right" src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'](https://github.com/TahaYounis/TahaYounis/blob/main/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)>
 
 - 🔭 I’m currently working as **freelancer**
 
