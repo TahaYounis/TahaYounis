@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://github.com/TahaYounis" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>  <a href="https://www.linkedin.com/in/taha-younis-12655b181/" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  <a href="https://www.facebook.com/profile.php?id=100012648518443" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>  <a href="https://www.youtube.com/@tahayounis2996" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
+<a href="https://www.linkedin.com/in/taha-younis-12655b181/" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  <a href="https://www.facebook.com/profile.php?id=100012648518443" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>  <a href="https://www.youtube.com/@tahayounis2996" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>
 
 
  
