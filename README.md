@@ -15,9 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/TahaYounis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TahaYounis" height="30" width="40" /></a>
-<a href="https://fb.com/TahaM.Younis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TahaM.Younis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/TahaYounis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TahaYounis" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/taha younis](https://www.linkedin.com/in/taha-younis-12655b181/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taha Younis" height="30" width="40" /></a>
+ 
+<a href="https://fb.com/TaHaM.Younis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TaHaM.Younis" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/taha younis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="taha younis" height="30" width="40" /></a>
 </p>
  
 
