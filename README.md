@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Younis</h1>
 <h3 align="center">Mobile developer (Kotlin | Java)</h3>
 
-<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://github.com/TahaYounis/TahaYounis/blob/main/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)' whidth='100'> 
+<img src="https://github.com/TahaYounis/TahaYounis/blob/main/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" whidth="100"> 
 
 - 🔭 I’m currently working as **freelancer**
 
