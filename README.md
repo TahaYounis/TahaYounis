@@ -6,9 +6,12 @@
 
 - 🔭 I’m currently working as **freelancer**
 
-- 🌱 I’m currently learning **KMM**
+- 🌱 I’m currently learning 
+
+    **Kotlin Multi Platform**
 
 - 👯 I’m looking to collaborate on 
+
    **Large Projects to leverage my skills and experience**
 
 - 💬 Ask me about **Kotlin, Java, Android**
